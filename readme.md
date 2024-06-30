@@ -2,20 +2,21 @@
 
 this is a modified version of the [EpicGamesDowngrader](https://github.com/whichtwix/EpicGamesDowngrader/tree/main) by [whichtwix](https://github.com/whichtwix)
 
-# Download (unavaible)
+# Download
 
 |Version|Link|
 |---|---|
-|v2024.6.18|[Download](link)|
-|v2024.6.4|[Download](link)|
-|v2024.3.5|[Download](link)|
-|v2023.11.28|[Download](link)|
-|v2022.2.24|[Download](link)|
-|v2021.7.20|[Download](link)|
-|v2021.6.30|[Download](link)|
-|v2021.6.15|[Download](link)|
-|v2021.5.25|[Download](link)|
-|v2021.12.15|[Download](link)|
+|v2024.6.18|[Unavaible](link)|
+|v2024.6.4|[Download]([link](https://github.com/whichtwix/EpicGamesDowngrader/releases/download/2024.6.4-1/DowngradeEpic.ps1)|
+|v2024.3.5|[Unavaible](link)|
+|v2023.11.28|[Download]([link](https://github.com/whichtwix/EpicGamesDowngrader/releases/download/2023.11.28-1/DowngradeEpic.ps1))|
+|v2022.2.24|[Unavaible](link)|
+|v2021.7.20|[Unavaible](link)|
+|v2021.6.30|[Unavaible](link)|
+|v2021.6.15|[Unavaible](link)|
+|v2021.5.25|[Unavaible](link)|
+|v2021.12.15|[Unavaible](link)|
+I will add more versions soon
 
 # Downgrade tool for Among Us
 
