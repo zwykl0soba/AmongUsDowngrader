@@ -1,3 +1,16 @@
+# Note
+
+this is a modified version of the [EpicGamesDowngrader](https://github.com/whichtwix/EpicGamesDowngrader/tree/main) by [whichtwix](https://github.com/whichtwix)
+
+# Download (unavaible)
+
+|Version|Link|
+|---|---|
+|v2024.6.18|[Download](link)|
+|v2024.6.4|[Download](link)|
+|v2024.3.5|[Download](link)|
+|v2023.11.28|[Download](link)|
+
 # Downgrade tool for Among Us
 
 this repository contains a script that is used by epic players to download a older version of among us during times when mods are uncompatible
