@@ -10,6 +10,12 @@ this is a modified version of the [EpicGamesDowngrader](https://github.com/which
 |v2024.6.4|[Download](link)|
 |v2024.3.5|[Download](link)|
 |v2023.11.28|[Download](link)|
+|v2022.2.24|[Download](link)|
+|v2021.7.20|[Download](link)|
+|v2021.6.30|[Download](link)|
+|v2021.6.15|[Download](link)|
+|v2021.5.25|[Download](link)|
+|v2021.12.15|[Download](link)|
 
 # Downgrade tool for Among Us
 
