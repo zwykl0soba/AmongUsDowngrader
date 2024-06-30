@@ -7,9 +7,9 @@ this is a modified version of the [EpicGamesDowngrader](https://github.com/which
 |Version|Link|
 |---|---|
 |v2024.6.18|[Unavaible](link)|
-|v2024.6.4|[Download]([link](https://github.com/whichtwix/EpicGamesDowngrader/releases/download/2024.6.4-1/DowngradeEpic.ps1)|
+|v2024.6.4|[Download](https://github.com/whichtwix/EpicGamesDowngrader/releases/download/2024.6.4-1/DowngradeEpic.ps1)|
 |v2024.3.5|[Unavaible](link)|
-|v2023.11.28|[Download]([link](https://github.com/whichtwix/EpicGamesDowngrader/releases/download/2023.11.28-1/DowngradeEpic.ps1))|
+|v2023.11.28|[Download](https://github.com/whichtwix/EpicGamesDowngrader/releases/download/2023.11.28-1/DowngradeEpic.ps1)|
 |v2022.2.24|[Unavaible](link)|
 |v2021.7.20|[Unavaible](link)|
 |v2021.6.30|[Unavaible](link)|
